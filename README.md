@@ -1,4 +1,4 @@
-- 👋 "Hello! I'm Aditya Vishwakarma , a driven project manager, game developer, and creative enthusiast. With experience in managing projects, I've developed strong skills and a passion for innovation.
+👋 "Hello! I'm Aditya Vishwakarma , a driven project manager, game developer, and creative enthusiast. With experience in managing projects, I've developed strong skills and a passion for innovation.
 
 In the realm of game development, I've honed my skills on Scratch and am currently exploring the world of Godot. I'm excited to continue learning and growing in this field, with the ultimate goal of founding my own game development company.
 
