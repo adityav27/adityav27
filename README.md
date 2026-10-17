@@ -50,7 +50,7 @@ I spend most of my time working on software projects, practising data structures
   <a href="https://www.hackerrank.com/profile/adityav2707"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
 </p>
 
-## 🌐 Find Me Online
+## 🌐 Connect with me
 
 <p>
   <a href="https://adityav27.github.io/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -58,9 +58,6 @@ I spend most of my time working on software projects, practising data structures
   <a href="https://www.linkedin.com/in/adityav27/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-### 💬 Connect with me
-
 - **Discord:** `Agent-DF47`
-- **Discord User ID:** `1328739061363376214`
 
 Outside of tech, I enjoy painting and cooking. Both are a nice change of pace from coding.
