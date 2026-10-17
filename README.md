@@ -4,7 +4,7 @@ I'm an Engineering Physics undergraduate at **IIT Guwahati** who enjoys building
 
 I spend most of my time working on software projects, practising data structures and algorithms, and experimenting with new technologies. I've contributed to open-source projects, built applications, explored optimization algorithms, and worked on game development. I enjoy learning by building things and improving them along the way.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 <p>
@@ -19,9 +19,7 @@ I spend most of my time working on software projects, practising data structures
 ### Databases & Data Analysis
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase&perline=5" alt="MySQL, PostgreSQL, MongoDB, Supabase, Firebase" />
-</p>
-
-<p>
+  <br />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
 
@@ -35,12 +33,12 @@ I spend most of my time working on software projects, practising data structures
   <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" alt="Git, GitHub, VS Code" />
 </p>
 
-## 🚀 Projects & Contributions
+## Projects & Contributions
 
 - **Route Optimization — Kriti 2026:** Finished 4th in IIT Guwahati's route optimization challenge, working with C++ optimization algorithms and a Flutter-based application.
 - **Open Food Facts Dart SDK:** Contributed to an open-source Dart SDK, including improvements to TSV parsing and data handling.
 - **Campus Applications:** Worked on applications that help simplify everyday campus tasks using backend services, databases, and real-time communication.
-- **Game Development:** Explored gameplay programming and creative problem-solving with Godot.
+- **Game Development:** Explored gameplay programming and creative problem-solving with Godot and Unity.
 
 ## 💻 Coding Profiles
 
@@ -54,8 +52,15 @@ I spend most of my time working on software projects, practising data structures
 
 ## 🌐 Find Me Online
 
-- **Portfolio:** [adityav27.github.io](https://adityav27.github.io/)
-- **GitHub:** [@adityav27](https://github.com/adityav27)
+<p>
+  <a href="https://adityav27.github.io/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/adityav27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/adityav27/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+### 💬 Connect with me
+
+- **Discord:** `Agent-DF47`
+- **Discord User ID:** `1328739061363376214`
 
 Outside of tech, I enjoy painting and cooking. Both are a nice change of pace from coding.
-
