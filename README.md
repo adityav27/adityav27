@@ -1,8 +1,9 @@
 # Hi, I'm Aditya Vishwakarma 👋
 
-I'm an Engineering Physics undergraduate at **IIT Guwahati** who enjoys building software, solving challenging problems, and exploring how things work under the hood.
+🎓 Engineering Physics undergraduate at **IIT Guwahati**  
+💻 Interested in software development, algorithms, open source, and game development.
 
-I spend most of my time working on software projects, practising data structures and algorithms, and experimenting with new technologies. I've contributed to open-source projects, built applications, explored optimization algorithms, and worked on game development. I enjoy learning by building things and improving them along the way.
+I enjoy turning ideas into working software, solving algorithmic problems, and understanding how things work under the hood. I've worked on full-stack applications, contributed to open-source projects, and explored optimization algorithms and game development. I like learning new technologies by building practical projects and improving them over time.
 
 ## Tech Stack
 
@@ -33,14 +34,21 @@ I spend most of my time working on software projects, practising data structures
   <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" alt="Git, GitHub, VS Code" />
 </p>
 
-## Projects & Contributions
+## Featured Work
 
-- **Route Optimization — Kriti 2026:** Finished 4th in IIT Guwahati's route optimization challenge, working with C++ optimization algorithms and a Flutter-based application.
-- **Open Food Facts Dart SDK:** Contributed to an open-source Dart SDK, including improvements to TSV parsing and data handling.
-- **Campus Applications:** Worked on applications that help simplify everyday campus tasks using backend services, databases, and real-time communication.
-- **Game Development:** Explored gameplay programming and creative problem-solving with Godot and Unity.
+- **Route Optimization — Kriti 2026 | 4th Place**  
+  Worked on a vehicle-routing optimization challenge using C++17, optimization heuristics, and a Flutter application with Supabase.
 
-## 💻 Coding Profiles
+- **Open Food Facts Dart SDK**  
+  Contributed to an open-source Dart SDK, including improvements to TSV parsing performance and numeric data handling.
+
+- **Campus Applications**  
+  Worked on campus-focused applications involving Node.js, Express, MongoDB, Firebase, and real-time communication.
+
+- **Game Development**  
+  Explored gameplay programming and interactive project development using Godot and Unity.
+
+## Coding Profiles
 
 <p>
   <a href="https://leetcode.com/u/magikarp_splash/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
@@ -50,14 +58,13 @@ I spend most of my time working on software projects, practising data structures
   <a href="https://www.hackerrank.com/profile/adityav2707"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
 </p>
 
-## 🌐 Connect with me
+## 🌐 Connect with Me
 
 <p>
   <a href="https://adityav27.github.io/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/adityav27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/adityav27/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-Agent--DF47-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: Agent-DF47" /></a>
 </p>
 
-- **Discord:** `Agent-DF47`
-
-Outside of tech, I enjoy painting and cooking. Both are a nice change of pace from coding.
+Outside of coding, I enjoy painting and cooking — two creative hobbies that give me a break from the screen.
